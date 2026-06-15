@@ -1,2 +1,2 @@
-# projecao_isometrica
-Projeção isométrica
+# Projecao isométrica
+Algoritmo clássico da projeção isométrica 2:1
